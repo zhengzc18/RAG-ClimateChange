@@ -1,0 +1,849 @@
+The one degree war plan
+Jorgen Randers
+Norwegian School of Management BI, Oslo, Norway, and
+Paul Gilding
+Programme for Sustainability Leadership, University of Cambridge,
+Sydney, Australia
+Abstract
+Purpose – The purpose of this paper is to present the idea of a global crisis plan that will be
+demanded when global society ﬁnally decides that the climate challenge is a real threat, requiring
+immediate and strong policy action at the super-national level. The authors believe that this demand
+will arise before 2020, and the authors hope that this paper will encourage others to improve on the
+plan.
+Design/methodology/approach – The paper seeks to achieve the purpose by presenting the ﬁrst
+draft of such a plan – “The one degree war plan” – in rather concrete terms, and estimating
+(in quantitative terms) the expected reduction in climate gas emissions that would result from
+implementing the crisis plan.
+Findings – The paper ﬁnds that it is surprisingly simple to develop a plan which will reduce global
+emissions by 50 per cent in ﬁve years. It also seems possible to lower global emissions to zero in the
+ensuing decade, and then run negative emissions of 6 GtCO2e/year for the rest of the century (through
+carbon capture in various forms). The result, using the C-ROADS climate model, is to keep the
+temperature rise in 2100 below þ18C above the pre-industrial level. Much work needs to assure these
+conclusions.
+Practical implications – The authors argue that public awareness of the dangers associated with
+climate change will increase over the next decade, to the level where it is perceived to be a signiﬁcant
+threat to global economic and geopolitical stability. The public will then demand emergency action to
+cut global climate gas emissions. The authors argue that such emergency action ought to be based on a
+well-prepared crisis response plan that seeks to keep global warming below þ18C over pre-industrial
+levels. The paper presents a draft of the crisis response plan and encourages further efforts to improve
+the plan.
+Social implications – The social value of having a well-considered and well-prepared climate crisis
+plan in place once the public demand immediate climate action from their politicians, can hardly be
+overestimated.
+Originality/value – To the authors’ knowledge, no similar crisis plan has been published.
+Keywords Environmental management, Global warming, Climatology
+Paper type Research paper
+Introduction
+It is like belonging to a secret society. Conversations held in quiet places, in cafes, bars
+and academic halls. Conversations held with furrowed brows and worried eyes.
+Conversations that sometimes give you goose bumps and shivers, and a sense of the
+surreal – is this conversation really happening?
+This is what it is felt like over the past few years, to spend time with some of the world’s
+leading thinkers and scientists on issues around climate change and sustainability.
+In public, this group generally puts a positive, while still urgent interpretation of
+their views. The general public position is: “we face serious risks, potentially catastrophic,The current issue and full text archive of this journal is available at
+www.emeraldinsight.com/2041-2568.htm
+JGR
+1,1
+170
+Journal of Global Responsibility
+Vol. 1 No. 1, 2010
+pp. 170-188
+qEmerald Group Publishing Limited
+2041-2568
+DOI 10.1108/20412561011039762if we don’t act urgently and strongly”. Of course, “If we don’t act” is the key qualiﬁer,
+with very few prepared in public at least, to cross that dreaded line or to use those words
+“it’s too late”.
+But in private, often late at night, when we reﬂect on what we really think and
+wonder if the battle is lost, it is a different conversation. The talk goes to the potential
+for self-reinforcing runaway loops and for civilisation’s collapse. We discuss
+geopolitical breakdown, mass starvation and what earth would be like with just a few
+hundred million people. It is a very strange thing to calmly pontiﬁcate the realistic risk
+of the collapse of civilisation and then go back to work!
+Why are the public conversations so different from the private ones?
+Changing public opinion and galvanising political and market action is an art rather
+than a science, but an art made all the more complex by the array of human emotions that
+discussions like this provoke. If the messages is too soft – the “win, win, we can do this,
+let’s not dwell on doom and gloom” approach – people do not confront the scale of the
+challenge and ﬁnd endless reasons for delay. When change is difﬁcult, or failure
+frightening, then avoidance is a welcome escape.
+However, if the message is too hard – the “we’re doomed, it’s a catastrophe, act now
+or we’ll all die” approach – then people normally switch off, and move into denial, or
+worse, into resistance.
+The balance between these extremes has very much sat at the soft end in recent
+decades. A combination of fear of generating resistance or backlash and a desire not
+to be written off as too extreme (and at a personal level, not wanting to lose
+motivation) has tended to drive experts away from the hard conversations, at least in
+public.
+This has recently become very challenging. The scientiﬁc evidence has become
+overwhelming and with few exceptions has tilted all the uncertainties the wrong way.
+The Arctic melting way ahead of all previous forecasts including worst-case scenarios,
+the constantly increasing forecasts for sea level rise, the accelerating species loss, the
+worsening droughts, the melting glaciers, the tragic ﬁres and so on, all take us to the
+unavoidable conclusion – things are indeed, to use that delightfully understated
+English term, rather grim.
+We now ﬁnd ourselves at least once a week having a discussion with someone who
+asks the question – “Is it too late?” which soon leads into “So what should we do now?”
+This paper is our answer to those two questions.
+1. It is not too late ... yet
+Too late is not a single line to cross. Except in absolutely catastrophic collapse
+scenarios, there is no “too late”, because action taken today will still reduce the level of
+future damage and human suffering.
+Our view is, however, that given the physical momentum for change already in the
+climate system and the continuing lack of action on the scale and with the urgency
+required, it is now too late to prevent major disruption and damage in the decades ahead,
+as a result of inaction over the past several decades. We believe there will now be an
+ecological and economic crisis, of a scale that is signiﬁcant in the history of human life on
+earth.
+But we certainly do not believe it is too late to prevent the collapse of the global
+economy and civilisation.The one degree
+war plan
+171This is because our work, described in this paper, leads us to conclude humanity
+can still prevent a process of runaway, self-reinforcing climate change and maintain a
+level of global control – i.e. a decision-making framework and capacity to affect
+actions at a signiﬁcant global scale. It will, however, require a level of mobilisation so
+far beyond the current debate that it will seem incomprehensible to most readers. And
+yet, such mobilisation is possible and could result in rapid and spectacular cuts in
+greenhouse gas (GHG) emissions and eventually lead to a stable climate.
+We ﬁrmly believe humanity can rise to the occasion, as evidenced by the
+mobilisation for, and the results of, World War II (WWII).
+The main point of this paper is to detail what the level of mobilisation and action
+required to stop climate change could look like and to begin the process of reﬁning
+such a plan.
+2. Society will respond when it perceives a crisis
+It is clear that society is capable of responding dramatically to major threats when
+there is acceptance of a crisis. At that point, all previous arguments against action are
+consigned to the dustbin. Modern history’s strongest example is WWII; others include
+9/11 and the recent ﬁnancial crisis.
+This is how it will be on climate change, but not yet. While the increasingly urgent
+scientiﬁc warnings are causing rapid growth in the number of people who believe, as
+we do, that we are already facing a civilisation-threatening crisis, it is not yet the
+dominant view.
+So, the evidence will continue to build and then at some point, there will be a “great
+awakening” – a tipping point where, relatively suddenly, people will perceive the
+situation as a real crisis. Perhaps, it will be triggered by an event unrelated to actual
+climate change but symbolic, like a lack of volcanic activity creating three record warm
+years in a row. Or perhaps, when the Arctic summer is ice-free for the ﬁrst time. Or, by
+the current economic crisis bringing our economic growth model into question. Or, it
+might just happen with no particular trigger.
+Whether it occurs because of a climatic event, political leadership or just the great
+mass of evidence is, while interesting, actually unimportant. Such a “great awakening”
+will certainly occur. If not next month, at least before too many more years pass.
+This is because the momentum for change that humans have now built into the
+Earth’s climate system is like a fast moving, very heavy train. We are standing on
+the train line, in heavy fog, oblivious to the approaching train. Either the fog will lift,
+or the train will get so close we will feel its rumble. Then, we will jump.
+Our judgement after decades of observation, recent interpretation of the high
+quality science and various social indicators is that this point will occur before 2020.
+When it occurs, we will shift into a “whatever it takes” approach to solving the
+problem. Given the response will be “late” and climate change is driven by a series of
+leading causes (i.e. it takes time – decades – before the full impact is felt), the “great
+awakening” will generate demand for dramatic intervention.
+At that time, the global community will – rapidly, though messily – develop a
+global emergency response to cut climate emissions and pursue a safe climate
+“whatever the cost”.
+To succeed, this emergency response will require an extraordinary level of global
+cooperation and unity of purpose, well beyond anything we have ever seen andJGR
+1,1
+172for which the only comparable, though still inadequate, example is the mobilisation of
+many parts of the world during WWII. It will require a clear goal (a picture of
+the enemy and of victory), rapid change, considerable dislocation and widespread
+sacriﬁce.
+Humanity will then enter a multi-decade response period that will see civilisation
+teeter on the brink of collapse but most likely not fall over that cliff.
+So, how will all this unfold?
+3. The crisis will trigger a demand for a one degree war plan
+The logic in any crisis is very simple. The question becomes: what action is necessary
+to solve the problem? The mindset shifts dramatically and becomes, as articulated by
+Winston Churchill in WWII:
+It is no use saying, “We are doing our best.” You have got to succeed in doing what is
+necessary.
+To the objective observer, the climate science is very clear on what is “necessary”.
+Allowing even 2 8C of warming (above pre-industrial temperatures) is too dangerous.
+Although broadly accepted as an important goal by policy makers, no mainstream
+science group actually argues this is a “safe” level. Rather, it is assumed to be “the best
+we can do” based on the analysis of what is politically “realistic”. About 2 8will in
+fact lead to widespread environmental, social and economic disruption and – most
+importantly – pose a signiﬁcant risk of a runaway, unstoppable warming period that
+could cause the collapse of civilisation. So, it is an inadequate goal. It is a plan for
+failure.
+The logical, science-based response is to set a target that gives society a “safe”
+outcome. We believe, based on currently available science, that bringing global warming
+back to below 1 8C from pre-industrial levels, can be considered reasonably “safe” for
+humanity on a crowded planet. Staying below 1 8, in other words, is the solution to the
+problem. It is “what is necessary”.
+Therefore, society will, when the crisis hits and the scale of the threat is understood,
+demand a plan to achieve no more than 1 8of warming.
+As we have been writing this paper, a debate has begun on the right CO 2
+concentration target and whether 350 ppm CO 2e is more appropriate than 450 ppm CO 2e,
+which is the generally accepted target in the policy community. The former goal is
+gaining increasing support among serious climate scientists, and is also the focus of an
+emerging popular movement (see www.350.org). While we are generally more
+supportive of a temperature target because this is the outcome needed, whereas the
+concentration of GHG is the driver of that outcome, it is interesting to note that our
+war plan delivers 350 ppm CO 2e. Accordingly, this plan could equally be considered a
+“350 War Plan”
+Whatever the technical detail and advocacy deﬁnitions are, our key conclusion is that
+it is both logical and inevitable that society will at some point demand an effective
+solution to what is clearly a major threat to the stability of human civilisation and the
+global economy. We are therefore writing this paper to encourage people to plan for such
+a one degree war sooner rather than later. The longer humanity works on it, the more
+robust and effective such a plan will be. It will also have greater public and political
+acceptance when it comes to implementation.The one degree
+war plan
+1734. A one degree war plan is realistic
+The next question becomes: is a one degree war plan “realistic”? There are two parts to
+this question:
+Q1. Is it technically and economically possible to rapidly reduce global GHG
+concentrations to a level that will bring warming back below 1 8?
+Q2. Is an agreement to achieve such a plan politically conceivable?
+The answer to the ﬁrst question is clearly yes. Our analysis indicates that based on
+current knowledge and technology, a 1 8target is completely achievable at an acceptable
+cost. This paper details an example of a plan that would achieve it. It would be very
+disruptive to parts of the economy and to many people, and it would require considerable
+sacriﬁce, but it certainly “solves the problem”.
+It would require a level of mobilisation and global cooperation similar to that of a
+world war, but society is capable of – and critically, experienced in – such mobilisations
+when it ﬁnally decides to solve a problem. Therefore, the key issue is not the
+technical/economic question of whether we can, but the political question of whether we
+will ever decide to act.
+Clearly, agreement to a one degree war plan is hard to imagine in today’s world.
+However, in both WWII and the current ﬁnancial crisis, there are clear examples of
+how fast things can change and how strong opposition and resistance can quickly
+evaporate. In the case of WWII, the speed of response by the USA was quite
+extraordinary. For example, whereas in 1940, defence spending was just 1.6 per cent of
+the economy (measured as gross domestic product (GDP)), within three years it had
+increased to 32 per cent, and by 1945 to 37 per cent. But the GDP increased itself by
+75 per cent in that time, making the observed increases even more extraordinary.
+The war effort demonstrated a tenfold increase in (inﬂation adjusted) dollars spent in
+just the four years from 1941 to 1945 (http://eh.net/encyclopedia/article/tassava.WWII).
+Similarly, extraordinary political decisions were made to take control of the economy.
+For example, just four days after the bombing of Pearl Harbour, the auto industry was
+ordered to cease production of civilian vehicles (Ferguson, 2005).
+So it can be done, if we ever decide to act. But how will it be done? It is unlikely that
+the one degree war will result from a universal global agreement. More likely, a small
+number of powerful countries, a kind of “Coalition of the Cooling”, will decide to act
+and then others will follow. Some will follow in order to align with the major powers,
+and some under military, economic and diplomatic pressure. In a technical sense, this
+process is quite easy. A full 50 per cent of global climate gas emissions will be covered
+if three “countries” (China, the USA and EU-27) agree to act. If we add another four
+countries (Russia, India, Japan and Brazil) the coalition will control 67 per cent of global
+emissions[1].
+So the issue is not humanity’s capacity to act, but the conditions being such that
+humanity decides to act. This will be when it is broadly accepted that the threat posed
+by not acting is greater than the threats posed by strongly acting.
+Core to our argument therefore, is that the physical momentum for change in the
+climate system is now so strong that it is inevitable the public view will change. This is
+because physical reality will overcome the current and proposed attempts at
+adaptation and mitigation, which are, relative to the problem, feeble and certain to
+create little impact. When the dominant view becomes that climate change threatensJGR
+1,1
+174the viability of civilisation and the collapse of the global economy, a crisis response will
+rapidly follow. Then society’s framework will change from “what is politically
+possible” to Churchill’s “what is necessary”.
+While we contend this transition is inevitable, the timing is certainly debatable. It is
+our view that these conditions will emerge before 2020. For planning purposes, we are
+assuming 2018.
+5. The one degree war plan in overview
+As stated earlier, our objective is a safe climate for humanity and that requires, on
+current science, ultimate temperature increase limited to about 1 8C. This is the objective
+of the one degree war plan and would be the outcome if this draft plan was
+implemented[2].
+In order to achieve this, humanity will need quick and dramatic reductions in
+emissions of climate gases. Achieving these reductions is the core of our plan. However,
+because of the long lag between emissions reduction and impact on temperature, these
+reductions will need to be supplemented with actions that directly slow the rate of
+temperature increase and we also propose these. Both these sets of measures will need
+to be supplemented with adaptation measures intended to reduce the impact of
+unavoidable migration and widespread hardship. Adaptation measures will be
+important parts of a mature one degree war plan, but our early version focuses primarily
+on effort to solve the underlying emissions problem.
+It is a symptom of the magnitude of the task, that even with the dramatic action we
+propose, our plan would see warming continuing to increase above 1 8until the middle
+of this century, before falling back to þ18C by 2100.
+We suggest ﬁghting the one degree war in three phases:
+(1)Climate war (years 1-5) . Modelled on the action following the entry of the USA
+into WWII, this would be the launch of a world war level of mobilisation to
+achieve a global reduction of 50 per cent in climate gas emissions within ﬁve
+years. This crisis response would shock the system into change, and get half of
+the job done. We call it the “C-war” for brevity. This is detailed in Section 6
+including a summary of the C- war’s emissions reductions and their distribution
+among sectors.
+(2)Climate neutrality (years 5-20). This would be a 15-year long push to lock in the
+50 per cent emergency reductions, and move the world to net zero climate
+emissions by year 20 (i.e. in 2038 if we start the C-war in 2018). This will be a
+major global undertaking, requiring full utilization of all technological
+opportunities, supported by behaviour and culture change. We call it the
+“C-push”. This is detailed in Section 7.
+(3)Climate recovery (years 20-100). This would be the long haul effort towards
+global climate control – the effort to create a stable global climate and a
+sustainable global economy. Achieving this will require a long period of negative
+emissions to move the climate back towards the pre-industrial “normal”. For
+instance, some refreezing of the Arctic icecap will require removing CO 2from the
+atmosphere through geo-engineering actions, like burning plantation wood in
+power stations and storing the emissions underground using carbon capture and
+storage (CCS). Also, enough solar capacity will have to be introduced to powerThe one degree
+war plan
+175and heat the world without the use of fossil fuels. We believe humanity can
+complete the job in the ﬁrst decades after 2100 or thereabout, and we name it the
+“C-century”. This is detailed in Section 8.
+The overall emission reductions proposed (including the suggested distribution among
+sectors) are shown in Table I. The emissions pathway over time is shown in Figure 1.
+We have tested our suggested emission cuts in a global climate model[3], and
+conﬁrmed that implementation would deliver the following results:
+.The CO 2e concentration falls below 350 ppm by the end of the century, after
+peaking at around 440 ppm (Figure 2).
+.Global temperature does temporarily rise above þ18C, in mid-century, but then
+falls below þ18C around the end of this century (Figure 3).
+.The average sea level rises by 0.5 metres around 2100, and continues rising to a
+peak of 1.25 metres around 2300. While still very disruptive, we believe this is
+manageable with good preparation given the longer time frames (Figure 4).
+SourceEmissions in
+2018Emissions after
+C-war 2023Emissions after
+C-push 2038Emissions after
+C-century 2100
+Energy supply 15 8 1 0
+Transport 7 4 1 0
+Buildings 4 1 0 0
+Industry 11 6 0 0
+Agriculture 8 4 21 23
+Forestry 10 5 21 23
+Waste 2 1 0 0
+Sum emissions 56 28 0 26
+Note: All items in billion tons of CO 2-equivalents per year (GtCO 2e/year)Table I.
+Overview of one
+degree war
+Figure 1.
+GHG emissions into the
+atmosphere –
+GtCO 2e/year2000160
+140
+120
+100
+80
+60Billion tons of CO2e per year40
+20
+0
+–20
+2020 2040 2060
+Source:  Siegel et al. (2009), using C-ROADS2080 2100BAU
+One degree war planJGR
+1,1
+176The following Sections 6-8 provide more details for each phase of the plan.
+We note that the science will continue to develop and that different targets for CO 2e
+concentrations, temperature and sea-level rise may well become more appropriate as
+humanity gets greater clarity on what is “safe” and what is “necessary”.
+Therefore, even more radical action may become necessary if tipping points within
+the earth’s climate systems require greater step changes to reverse them than those
+anticipated in current state-of-the-art linear models.Figure 2.
+GHG concentration in the
+atmosphere – ppm CO 2e20001,400
+1,120
+840
+560Parts per million of CO2e
+280
+2020 2040 2060
+Source: Siegel et al. (2009), using C-ROADS 2080 2100BAU
+One degree war plan
+Figure 3.
+Global temperature
+change relative to
+pre-industrial20005
+34
+2
+1Degress centigrade
+0
+2020 2040 2060
+Source:  Siegel et al. (2009), using C-ROADS 2080 2100BAUTemperature goal –1 degree C
+One degree war planThe one degree
+war plan
+1776. Phase 1 – Climate war years 1-5
+Overview
+We propose a forceful start of the one degree war, for two reasons:
+(1) There is disproportionate value in early actions[4]. Given society will be
+starting action with the crisis in full swing, a forceful start will be necessary and
+beneﬁcial.
+(2) History indicates successful responses to crises tend to involve urgent, dramatic
+actions rather than slower, steady ones. This engages the public and breaks the
+tyranny of tradition. It can also be easier to get support for spectacular
+decisions.
+Our one degree war plan therefore proposes a series of global measures to achieve a
+rapid halving of CO 2-emissions during the initial ﬁve-year C-war, through linear
+reductions of 10 per cent per year.
+Other authors, like Intergovernmental Panel on Climate Change (IPCC) and
+McKinsey & Co., have also described climate gas reduction strategies, aiming for deep
+cuts by 2030 or 2050. These amount to reducing emissions by one-third and two-thirds
+by 2030[5]. But in order for the world to stay below 1 8warming, more dramatic cuts are
+necessary. The C-ROADS model indicates that it takes cuts of 50 per cent by 2023 to
+reach our goal. This cut must be followed by reductions to zero net emissions by 2038
+and net absorption of 6 GtCO 2e/year for the rest of the century. While the initial
+50 per cent in ﬁve-years is very challenging, we will show it is do-able. Critically,
+a slower start would make it very challenging to achieve the 1 8goal because of the
+physical challenge of removing additional billions of tonnes of climate gases from the
+atmosphere.
+The good news is that cutting by 50 per cent by 2023 can be achieved with the types
+of initiatives that McKinsey thinks will cost society less than e60/tCO 2e. The bad news
+is that doing these cuts at our faster speed will, by conventional wisdom, increase the
+cost. This is based on infrastructure having to be scrapped before the end of its usefulFigure 4.
+Sea level rise
+from year 200020001,000
+750
+500
+250Millimeters
+0
+2020 2040 2060
+Source:  Siegel et al. (2009), using C-ROADS 2080 2100BAUOne degree war planJGR
+1,1
+178life, and because technologies will have to be implemented before they are
+commercially mature. If this is accurate, it is the unfortunate consequence of acting
+late, as we are now, but delaying action longer will just make that worse.
+There is a counter argument that we have not modelled but are inclined to support,
+that a war like mobilisation of the global economy to transform our energy and
+transport infrastructure will not only be affordable but also may in fact trigger so
+much innovation and economic activity that it ends up being positive economically.
+Either way, it has to occur so we will leave that judgement to history.
+Our assessment indicates that the following actions, or others with equivalent
+impact, would be required to ultimately bring global temperature increase below þ18C.
+Our list is not a fully and comprehensively analysed plan, but a draft for discussion to
+establish the approach as viable.
+The climate war plan is divided into four sections.
+1. Actions to reduce emissions
+We propose the following actions to reduce global climate gas emissions by 50 per cent
+during the ﬁve year long climate war:
+.Cut deforestation and other logging by 50 per cent. Reduce by one half the
+ongoing net forest removal and land clearing across the world, including tropical
+deforestation. At the same time, concentrate commercial forestry operations into
+plantations managed to maximise carbon uptake. This will require signiﬁcant
+payments to developing countries, for the climate services provided by their
+intact forests, but is surprisingly cost effective and doable (Prince’s Rainforests
+Project, 2009).
+.Close 1,000 dirty coal power plants within ﬁve years. Close down a sufﬁcient
+number of the world’s dirtiest coal ﬁred power plants to cut the climate gas
+emissions from power production by one-third. We estimate this implies closing
+down 1,000 plants[6], resulting in a parallel reduction in power production of
+one-sixth. (Power production would fall proportionally less than emissions,
+because the dirtiest plants emit more CO 2per unit of energy).
+.Ration electricity, get dressed for the war and rapidly drive efﬁciency. In response to
+lower supply, launch an urgent efﬁciency campaign matched with power rationing.
+Include a global campaign to change the temperature by 1-2 8C in all
+temperature-controlled buildings (increase/decrease according to season). Make
+this part of the “war effort” as a public engagement technique with large immediate
+power savings. On the back of this, launch an urgent mass retroﬁt program
+including insulating walls and ceilings, installing efﬁcient lighting and appliances,
+solar hot water, and so on across both residential and commercial buildings.
+.Retroﬁt 1,000 coal power plants with CCS. Build CO 2-capture and storage
+capacity on 1,000 of the remaining power plants[6]. This huge investment would
+be much simpler through international standardisation. The CCS technology will
+also be needed for removal of CO 2from the atmosphere later in the one degree
+war (generating power using biomass and sequestrating the CO 2). CCS is not yet
+commercially viable, and will require heavy government intervention.
+.Erect a wind turbine or solar plant in every town. Build in every town of
+1,000 inhabitants or more at least one wind turbine. If there is no meaningfulThe one degree
+war plan
+179wind, build a solar thermal or solar power plant instead. Beyond the CO 2and
+technology acceleration beneﬁts, this would have the powerful impact of giving
+most people in the world a tangible, physical connection to the “war effort”.
+.Create huge wind and solar farms in suitable deserts. Launch a massive
+renewable energy program focused primarily on concentrated solar thermal,
+solar photovoltaic device and wind power – on land and off shore. Given the
+urgency, the initial focus will need to be on those areas with most short-term
+potential for mass roll-out with ﬁnance supported by global agreement. The
+Desertec initiative provides an interesting concept of what would be possible
+with a multilateral focus (www.desertec.org). On a global scale, various studies
+have shown how we could move to a 100 per cent renewable energy system
+relatively rapidly. A recent global study showed how this could be achieved by
+2030 with full base load coverage. Of particular interest is that it concluded it
+would actually be cheaper than fossil fuels and nuclear power, due to the
+efﬁciency inherent in an energy system based on renewable generation and
+electricity use[7].
+.Let no waste go to waste. Ensure that all used materials are recycled and reused,
+at the very least to recover the embedded energy. To force this, limit production
+of virgin aluminum, cement, iron, plastics and forest products – possibly
+through international agreements to restrict their use through higher price or a
+special global emissions tax on virgin materials. Drive public recycling as part of
+the war effort (there are good examples here also from WWII where mass public
+recycling drives focused on key materials).
+.Ration use of dirty cars to cut transport emissions by 50 per cent. Launch
+large-scale replacement of fossil fuel cars with chargeable electric vehicles –
+running on climate neutral power – along with a massive boost in fuel efﬁciency
+standards, bans on gas-guzzlers and greater use of hybrid cars. Public
+repurchase and destruction of the most inefﬁcient vehicles (“cash for clunkers”
+schemes) would help speed the transition. Given the time it will take to scale up
+production there will need to be rationing of the purchase of fossil fuels and other
+restrictions on their use such as special speed limits on fossil fuel cars. These
+measures would in turn help drive the uptake of electric and efﬁcient vehicles.
+In WWII, fuel in the USA was rationed at 4 gallons (per vehicle per week) then
+reduced to 3 gallons, and ﬁnally in 1944 to 2 gallons. Alongside this, a national
+35 mile per hour speed limit was imposed and anyone breaking the limit risked
+losing their fuel and tire rations. The government ran marketing campaigns to
+support these measures such as advertisements asking “Is this trip necessary”
+and educations campaigns on “How to spend a weekend without a car”[8].
+.Prepare for bio-power with CCS. Interestingly, the C-war may not see a large
+increase in the use of biofuels for transport (not even second generation fuels
+made from cellulose). It seems better for the climate to grow the cellulose and
+burn it in power stations with CCS, thereby removing CO 2from the atmosphere
+while making power and heat. For this reason, boosting cellulose production
+(in plantations and elsewhere) will be key.
+.Strand half of the world’s aircraft. Reduce airplane capacity by a linear 10 per cent
+per year through regulatory intervention and pricing to achieve a 50 per centJGR
+1,1
+180reduction in airline emissions by the end of year 5. This will force the rapid
+development of bio-fuels for aircraft and force a cultural shift to electronic
+communication and away from frivolous air travel.
+.Capture or burn methane. Put in place a global program to ensure that a
+signiﬁcant proportion of the methane from agricultural production and landﬁlls
+are either captured for energy purposes or at least burnt to reduce the warming
+effect of that methane by a factor of 23.
+.Move away from climate unfriendly protein. Move society towards a diet with
+much less climate unfriendly red meat – through public education backed by
+legislation and pricing. This should not be against particular meat, but against
+the associated emissions, so that preference is given to protein produced with
+lower emissions. There are large differences between protein types – emissions
+differ from soy, chicken, pork and beef (and within beef, from grass vs grain fed).
+Therefore, science-based policy should be made to encourage the most impactful
+behaviour change. We note the US Government ran an effective “meat free
+Tuesday” campaign during WWII.
+.Bind 1 Gigatonne of CO 2in the soil. Develop and introduce agricultural methods
+that reduce climate gas emissions from agriculture and maximise soil carbon.
+This will require signiﬁcant changes in farm technology and farmer psychology,
+and we are unlikely to get far during C-war. But the effort should be started
+immediately in preparation for the large-scale binding of carbon in forestry and
+agriculture which will be necessary from the 2030s in order to drive down the
+CO2-concentration in the atmosphere during the rest of the century. In both cases,
+the object will be to grow as much plant material as possible, and ensure that the
+bound carbon ends in the soil or in subsurface storage, not back in the
+atmosphere. Currently, global forests bind some 3 GtCO 2e/year. Hopefully –
+through the use of fast growing tropical plantations, supplemented with
+industrial growth of algae – one could achieve the binding (and safe storage) of
+some 6 GtCO 2e/year from forestry and agriculture combined.
+.Launch a government and community led “shop less, live more” campaign.
+In order to free up ﬁnance, manufacturing capacity and resources for critical war
+effort activities, a very large-scale campaign to reduce carbon-intensive
+consumption, or at least stabilise it, would be of great help. This will align well
+with the general need to shift the economy away from carbon-intensive
+activities towards climate-friendly experiences. We would propose a bottom-up
+and top-down campaign to highlight the quality of life beneﬁts of low-carbon
+lives.
+While all these actions may seem draconian or unrealistic by the standards of today’s
+debate, they will seem far less so when society moves to a war footing and a focus on
+“what is necessary”. Once more, WWII demonstrated that seemingly unachievable
+actions quickly became normal when delivered in the context of a war effort. They
+ranged across dramatic increases in the level of taxation, the direction by government
+of manufacturing, and engagement campaigns to drive public behaviour shift. So, once
+more, we assert that the challenge is not to ﬁnd appropriate actions, but to make the
+decision to move on the problem.The one degree
+war plan
+1812. Actions to immediately slow temperature increase
+Our one degree war plan will achieve signiﬁcant reductions within ﬁve years, but
+won’t lower global temperatures until much later (after 2040, as per Figure 3). In order
+to reduce the risk of triggering runaway positive feedbacks[9] in the meantime, we
+propose an urgent initiative to lower the temperature immediately by temporary
+means. While the science in this area is still under development, we conclude based on
+current knowledge that the safest and fastest way to achieve this is by directly
+increasing the reﬂectivity of the earth. Alas! it may prove necessary to do much more
+risky geo-engineering – like introducing particles in the atmosphere to reduce the
+incoming solar heat – if we want to have signiﬁcant effect. Or to invest in much more
+expensive projects – like placing huge shades in space. We would rather avoid these, if
+at all possible, but they should certainly also be further investigated:
+.The white roofs campaign. What we do propose for implementation, because it is
+very low risk, is a “white roofs campaign” to paint white (or cover with highly
+reﬂective materials) most upward s loping surfaces in urban areas to
+substantially increase the reﬂectivity of the planet. By reﬂecting back, some of
+the incoming solar energy, one can compensate for the warming effect of part of
+the CO 2in the atmosphere. The urban roofs campaign should be supplemented
+with efforts to increase the reﬂectivity of other large areas: like brighter
+agricultural crops or mirrors in the deserts[10]. Such actions to brighten the
+world would not solve the climate problem, but could give society some more
+time to get the one degree war up to speed and to understand tipping point risks.
+The white roofs campaign would deliver a powerful signal. It has the great
+beneﬁt of being easy to implement without negative impacts on the local
+ecosystem, at least compared to other geo-engineering proposals such as creating
+artiﬁcial smog in the atmosphere. It would also have excellent symbolic impact,
+be capable of engaging people everywhere and create a large numbers of jobs.
+The white roofs would have a limited, but lasting cooling effect (at least as long
+as they stay white). But white roofs would do nothing to reduce the climate gas
+concentration in the atmosphere, nor the increasing acidity of the ocean. All it
+would do is to delay the temperature rise. Thus, the campaign should only be used
+to compensate for the lateness of action, not to replace other actions. The white
+roofs campaign would simply give us more time to win the one degree war[11].
+3. Actions to organise and ﬁnance the war
+The following actions address the most challenging area of climate change action:
+global distribution of actions, costs and beneﬁts. Like in any war, this will inevitably
+end up as a compromise between real power, equity and what can be achieved.
+Our suggested framework consists of four key actions, described below: establishing
+a multinational command structure, imposing a globally harmonised carbon tax,
+establishing a system for distributing the funds and stopping pollution subsidies:
+.Establish the climate war command . Create a “climate war command” controlled
+by those countries participating in the war. Combine the expertise and the
+lessons of institutions like the IMF (for professional advice on macroeconomics),
+the IPCC (for advice on climate issues) and various multi-national military
+commands. The climate war command would have a variety of powers including
+the authority to ensure that funds are distributed according to a harmonisedJGR
+1,1
+182global strategy, and to impose equivalent tariffs on imports from any countries
+that do not agree to the tax.
+.Introduce a carbon tax of US$100 per tonne of CO 2.Impose a global tax on CO 2
+levied at source on all fossil fuels (i.e. coal, oil and gas), Start at US$20/tonne in
+year 1 and increasing by US$20/tonne per year over the ﬁve-year duration of the
+C-war. This would initially raise some US$800 billion per annum, increasing to
+US$1,900 billion per annum in year 5[12]. This would be around 1-3 per cent of
+the GDP at the time, and actually less than the amounts put into stabilise the
+global economy during the ﬁnance crisis in the Fall of 2008.
+.Redistribute the proceeds of the carbon tax. The global carbon tax should be used
+for two purposes: to fund the war effort (i.e. the development and implementation
+of the various actions described above) and to alleviate the resulting hardship –
+primarily among the poor (globally speaking).
+The latter could be achieved through equal payments from the climate war
+command to all global citizens of half the proceeds of the global tax. They would
+start at US$45 per person year and increase to US$225 at the end of the C-war.
+This compensation for the disproportionate hardship of the poor during the
+one degree war could be supplemented by rationing systems to ensure each
+global citizen receives a fair share of those goods and services that temporarily
+will be in short supply – for example, food, power and fuel.
+The remaining funds should be used as agreed by the war command to help
+fund the development of new technology, to help pay for restructuring costs
+including paying developing countries an annual fee for prevented deforestation
+and to ﬁnance disaster response and adaptation costs.
+.Shift subsidies from fossil energy to human employment. Phasing out over ﬁve
+years all subsidies that support climate gas emissions, and use the proceeds to help
+soften transitional unemployment problems. This will shift the subsidies from
+carbon intensive sectors (fossil power and gasoline) to climate friendly sectors
+(like renewable energy, CCS and battery logistics) – boosting their employment.
+By some estimations, these subsidies amount to US$ 700 billion per year
+globally[13] – more than enough to matter.
+4. Actions to improve adapation
+The accelerating deterioration of the ecosystem and the slow human response is
+exacerbating what was already inadequate planning for adaptation to climate impacts.
+This situation can be expected to worsen by 2018, so a mature one degree war plan will
+need to address urgent adaptation needs.
+The following three areas will be central:
+(1)A resettlement plan for millions of climate refugees. Many of these refugees will
+be internal, but many will need to cross international borders to ﬁnd suitable
+homes. The wealthy countries will have to contribute substantially to
+addressing this migration challenge if we are to avoid the worst geopolitical
+threats that this will present.
+(2)An adaptation strategy for low lying coastal areas. The sea level will rise during
+the twenty-ﬁrst century and adaptation efforts will be required at the local and
+national level. International cooperation will increase the effectiveness andThe one degree
+war plan
+183reduce the cost of such measures, for example, dikes, staged retreat, ﬂoating
+cities and ﬂood resistant agriculture. This challenge is certainly not limited to
+developing countries, the industrial world has signiﬁcant sea rise challenges,
+for example, in Florida and The Netherlands.
+(3)A mitigation strategy for large-scale famine. Climate change is very likely to
+impact negatively on the world’s agriculture, particularly towards the middle of
+the century. Disaster relief organisations and the military should make concrete
+plans for such developments and their geopolitical implications.
+Conclusions on the challenges of the C-war
+Of course, the whole approach we outline is hard to imagine in the current context, but
+again we remind readers how fast things changed in WWII and how quickly things
+changed recently during the global ﬁnancial crisis.
+Humanity is capable of extraordinary change when it decides to act. Nevertheless,
+there will be some critical challenges to manage during this process, and these
+challenges are worthy of considerable discussion as this plan is revised.
+The main challenge, beyond agreeing to start the C-war, will be in softening the
+problems for those hardest hit by expensive or unavailable energy, food, transport
+and housing. As suggested above, this can best be addressed through a combination
+of economic compensation and rationing. Our plan generates at year 5 around
+$2,500 billion per annum to be used for compensation, structural adjustment in the
+economy and adaptation planning. We also propose a well functioning rationing system
+to ensure a ﬁxed minimum amount of these commodities for each global inhabitant.
+While these are important, it should be noted that this plan is going to require sacriﬁce
+and this cannot be avoided.
+Against this, we have as our constant reference point the human suffering and
+economic cost of the alternative of a rapidly collapsing global economy.
+The second challenge would be to help those who lose their jobs in the transition.
+This could be done by diverting current subsidies and using tax income, but also
+would be helped by the signiﬁcant employment effect of the war-like production
+increase in climate-friendly output and other actions such as expanding renewable
+energy production and the white roofs campaign.
+Third, and perhaps hardest to plan for, will be the great need for leadership. This
+will be needed globally, but also at the national level and then further down in the
+climate army to the local level.
+Although not the focus of this plan, we see great potential for bottom up community
+action and leadership in this overall effort. While we do not analyse this in detail here
+because it is hard to quantify, we see enormous potential and note the efforts underway
+all around the world such as the transition towns movement (Table II).
+7. Phase 2 – Climate neutrality years 6-20
+Phase 2 would be a 15-year continuing push to lock in the 50 per cent reductions
+achieved during the C-war, making them permanent and launching the programs that
+would see global CO 2e neutrality by year 20 (i.e. zero net global emissions by 2038).
+The actions in Phase 2 would be inﬂuenced by the experience of the ﬁve-year C-war
+and the scientiﬁc and technological developments of the time. In most cases, it wouldJGR
+1,1
+184be a matter of continuing these programs and expanding them, but in some cases new
+initiatives would be taken. Examples of approaches might include:
+.Create the global “Climate Stability Commission” to determine the CO 2
+concentration required to stabilise the climate as the science develops, to
+investigate and agree necessary geo-engineering projects to achieve stabilisation,
+and to monitor their implementation. This review would include CCS with
+biofuels and other approaches to remove CO 2from the atmosphere, reforestation,
+soil carbon and soil char, the white roofs campaign, mirrors in the desert,
+atmospheric seeding, reﬂectors in space and all other ideas.
+.Rapidly rollout any geo-engineering projects with short-term beneﬁts – be they
+reduction in temperature or removal of CO 2– after careful scrutiny of the
+environmental impacts both in the short term and in the long run. Considering
+the environmental risks probably leads to preference for increasing reﬂectivity
+over atmospheric seeding.
+.Eliminate all remaining net deforestation and promote the widespread use of
+timber in ways which maintains its store of CO 2, like in buildings and other
+long-lived products.
+.Implement adaptation plans designed during the C-war including preparing for
+migration, sea level rise, and famine.
+.Regulatory action to close the loop on all consumer products and the diversion of
+all waste from landﬁll to force greater recycling. This should include the
+composting of all organic waste to immediately reduces waste volumes and
+prevent longer term methane emissions from organic waste.SourceEmissions
+2018Emissions
+2023 Initiatives
+Energy
+supply15 8 Close the 1,000 most climate intensive power
+plants. Introduce CCS on 1,000 of the remaining
+plants. Large-scale expansion of wind and solar
+energy
+Transport 7 4 Rapid electriﬁcation of car ﬂeet, forced shift to
+small cars and rationing of daily driving. Dramatic
+reduction in air travel
+Buildings 4 1 Dramatic increase in energy efﬁciency. Change
+indoor temp 2 8C up or down depending on season
+Industry 11 6 Shift to recycled metals and ﬁbre, limit production
+of aluminium, cement, iron and forest products.
+Shifting to renewable materials and increasing
+energy efﬁciency
+Agriculture 8 4 Shift away from red meat, increase the carbon
+content of the soil
+Forestry 10 5 Halving of all harvesting of wood
+Waste 2 1 Capturing all methane from landﬁlls, and burning
+all waste for energy
+Sum 56 28
+Note: In GtCO 2e per yearTable II.
+Details of Phase 1 –
+climate warThe one degree
+war plan
+185.Continue the massive renewable energy program to ﬁrst replace supply for the
+dirty generators turned off in the C-war, and then to turn off the remaining dirty
+coal generators by the end of year 10 and most gas generators by year 15[14].
+.Continue the transport replacement program from the C-war so that all transport
+is zero CO 2e by the end of year 20.
+.Continue the energy efﬁciency program with incentives to reduce rationing of
+supply to the most efﬁcient houses and buildings.
+8. Phase 3 – Climate recovery years 21-100
+For years 21-100, the challenge will be to rebuild the global economy based on
+renewable (solar, wind, hydro, geo, etc.) energy in a sustainable model, to lock in the
+reductions achieved, and to then stabilise the global climate by taking GHGs out of the
+atmosphere. Actions might include:
+.Launch those geo-engineering projects that were found acceptable by the Climate
+Stability Commission’s investigations. This will involve removing CO 2e from the
+atmosphere through a series of programs involving bio-sequestration and under
+ground storage.
+.Develop the global economy with a focus on sustainability, the elimination
+of poverty and closed loop, zero waste and zero net CO 2e production and
+consumption. Shift economic policy to a focus on quality of life vs material
+growth for its own sake.
+.Widespread application of approaches to help stabilise the climate, probably
+primarily agricultural, forestry and soil carbon-related activities.
+9. Conclusions and next steps
+What this paper shows, at least at a high level, is basically good news, and writing it
+lifted our spirits. It showed that even though we will inevitably respond to climate
+change “late”, it will still be possible to stabilise the climate and human society.
+Advocating urgent action remains crucial because the earlier we act, the safer we
+will be, and the less disruptive the inevitable process of rapid change will be.
+While hard to imagine today, this plan can be implemented relatively cheaply
+compared to the costs of failure. Various analyses made since 2005 indicate the societal
+cost of drastic emission cuts to stabilise around 450 and 550 ppm are about 1-2 per cent
+of the gross world product. The costs will inevitably be higher when the one degree
+war plan is implemented because of the speed required. But there is every reason to
+believe that the war can be won with 5-10 per cent of annual GDP allocated to the task.
+That would in turn translate into using roughly 5-10 per cent of the workforce, and
+result in 5-10 per cent drop in average disposable income. It is not without sacriﬁce,
+and certainly involves signiﬁcant dislocation for many people, but again not compared
+to the alternative of a collapsing economy.
+Over the ensuing period of restructuring, wealth levels would gradually move back
+toward current levels, though distribution would be more even. Well being may increase
+with stronger common purpose and sense of community, stronger global governance
+and cooperation and many improvements in transport, urban design and energy.
+While the total cost is manageable, the distribution of costs and the beneﬁts will
+raise some very challenging political and social issues, as indicated by the actions weJGR
+1,1
+186have proposed in order to ﬁnance the one degree war and distribute the burden. This
+would particularly apply to industries heavily affected and to developing countries,
+particularly poor people within them.
+Society has some experience of managing economic restructuring under emergency
+conditions. Sometimes it is done well and sometimes badly. It is clear the better one
+plans, the less painful the transition will be for those most affected. The problems
+cannot be eliminated (again, war provides a good analogy), so it will be important for
+both humanitarian reasons and the chances of success to prepare well.
+Since it appears likely that humanity will not respond until the approaching damage
+is perceived as a true crisis, society should get to work on the crisis response plan now.
+Notes
+1. World Resources Institute (2009), these percentages are based on 2005 emissions, excluding
+land use, land use change and forestry.
+2. As noted earlier, this also aligns well with those who argue for a 350-ppm target.
+3. We ran our assumed emission scenario (along with an IPCC business as usual scenario)
+through the C-ROADS model with the kind help of Siegel et al. (2009).
+4. McKinsey & Co. (2009) shows how for every year of delay, the peak atmospheric
+concentration of CO 2e could be expected to be 5 ppm higher for the same level of action. Stern
+also argues the economic value case for “strong and early action” in the executive summary
+of Stern (2006), executive summary.
+5. Other cut strategies have been outlined, for example, in IPCC Fourth Assessment Report
+(2007) and McKinsey & Co. (2009).
+6. In this paper, we assume there will be some 6,000 major power plants in operation in 2018
+(against some 5,000 today). We assume that 1,000 of these are closed down during the C-war
+in 2018-2023 (reducing emissions by 5 GtCO 2e/year), and that a further 1,000 plants will be
+retroﬁtted with CCS equipment (reducing emissions by a further 2 GtCO 2e by 2023). A big
+CCS plant sequesters on average 2 MtCO 2/year – roughly 1 in a gas ﬁred utility, and roughly
+3 in a coal ﬁred utility).
+7. See Jacobson and Delucchi (2009), where a paper summarises their full study.
+8. See Cardozier (1995), especially Chapter 10: The Home Front.
+9. One of the key reasons scientists fear higher temperatures is that they may trigger runaway
+climate change. This is so-called self-reinforcing or positive feedbacks. One such feedback
+process is the loss of reﬂectivity caused by the loss of ice. Ice as a highly reﬂective surface
+reﬂects radiation from the sun back into space, thereby reducing the amount of heat trapped
+on earth. When sea-ice is replaced by dark blue water it absorbs more heat and creates
+greater warming, which then melts more ice, potentially creating a self-reinforcing or
+positive feedback.
+10. See Lenton and Vaughan (2009). This paper compares the effectiveness of a large number of
+techniques to counteract the warming effect of increased climate gas concentrations in the
+atmosphere.
+11. We have not included the impact of the white roofs campaign in Figures 1-4 because it is
+unclear how effective it would be in quantitative terms.
+12. Assuming that two-thirds of all emissions come from fossil sources (according to Table I,
+this is 0.67*56¼38 GtCO 2e/year in 2018 and 0.67*28¼19GtCO 2e/year in 2023) and that the
+tax goes from 20 US$/tCO 2e in 2018 to 100 US$/tCO 2e in 2023.The one degree
+war plan
+18713. Myers and Kent (1998) found US$145 billion in subsidies for fossil fuels and nuclear, with a
+further US$558 billion for road transportation (i.e. petrol) subsidies.
+14. We assume that by 2038 most power plants have been replaced by renewable energy, or
+have been retroﬁtted with CCS.
+References
+Cardozier, V.R. (1995), The Mobilization of the United States in World War II: How the
+Government, Military and Industry Prepared for War , McFarland, Jefferson, NC, 277 pp.
+Ferguson, R.G. (2005), “One thousand planes a day: Ford, Grumman, General Motors and the
+Arsenal of Democracy”, History and Technology , Vol. 21, p. 149, at 164.
+IPCC Fourth Assessment Report (2007), Synthesis Report, Summary for Policy Makers , IPCC,
+Geneva, p. 16.
+Jacobson, M.Z. and Delucchi, M.A. (2009), “A path to sustainable energy by 2030”, Scientiﬁc
+American Magazine , November, pp. 39, 42, 43.
+Lenton, T.M. and Vaughan, N.E. (2009), “The radiative forcing potential of different climate
+geoengineering options”, Atmospheric Chemistry and Physics , Vol. 9, pp. 5539-61, available
+at: www.atmos-chem-phys.net/9/issue15.html
+McKinsey & Co. (2009), Pathways to a Low-carbon Economy 2009, Summary of Findings ,
+McKinsey, New York, NY, p. 11.
+Myers, N. and Kent, J. (1998), Perverse Subsidies: Tax $s Undercutting Our Economics and
+Environments Alike , International Institute for Sustainable Development, Winnipeg.
+Prince’s Rainforests Project (2009), “An emergency package for tropical forests”, available at:
+www.princeofwales.gov.uk/content/docu ments/Report%20-%20March%202009.pdf
+(accessed March 2009).
+Siegel, L., Fiddaman, T., Sawin, E., Jones, A. and Sterman, J. (2009), C-ROADS Simulator Reference
+Guide , Ventana Systems, Harvard, MA, available at: www.climateinteractive.org
+Stern, N. (2006), The Stern Review Report: The Economics of Climate Change , Her Majesty’s
+Treasury, London, October.
+World Resources Institute (2009), “Climate analysis indicators tool”, available at: http://cait.
+wri.org/cait.php?page ¼yearly (accessed 11 May 2009).
+Corresponding author
+Jorgen Randers can be contacted at: jorgen.randers@bi.noJGR
+1,1
+188
+To purchase reprints of this article please e-mail: reprints@emeraldinsight.com
+Or visit our web site for further details: www.emeraldinsight.com/reprints
